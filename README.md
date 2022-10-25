@@ -7,7 +7,7 @@ developpeur fullstack
 * 🌍  I'm based in brest, finistere, france
 * 🖥️  See my portfolio at [my portfolio](http://damienchapart.fr)
 * ✉️  You can contact me at [damienchapart@gmail.com](mailto:damienchapart@gmail.com)
-* 🚀  I'm currently working on [agence performance webmarketing](http://performancewebmarketing.fr)
+* 🚀  I'm currently working on [agence performance webmarketing](http://performance-webmarketing.fr)
 * 🧠  I'm learning nuxt3
 
 ### Skills
