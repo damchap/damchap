@@ -9,7 +9,7 @@ developpeur fullstack
 * 🖥️  See my portfolio at [my portfolio](http://damienchapart.fr)
 * ✉️  You can contact me at [damienchapart@gmail.com](mailto:damienchapart@gmail.com)
 * 🚀  I'm currently working on [agence performance webmarketing](http://performance-webmarketing.fr)
-* 🧠  I'm learning nuxt3
+* 🧠  I'm learning react, next, nuxt3, react, vue, ts, sass
 
 ### Skills
 
