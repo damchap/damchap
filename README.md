@@ -8,7 +8,7 @@ developpeur fullstack
 * 🌍  I'm based in brest, finistere, france
 * 🖥️  See my portfolio at [my portfolio](http://damienchapart.fr)
 * ✉️  You can contact me at [damienchapart@gmail.com](mailto:damienchapart@gmail.com)
-* 🚀  I'm currently working on [agence performance webmarketing](http://performance-webmarketing.fr)
+* 🚀  I'm currently working on [Thales](http://thales-groups.com)
 * 🧠  I'm learning react, next, nuxt3, react, vue, ts, sass
 
 ## My skills 🚀
