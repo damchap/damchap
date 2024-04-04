@@ -2,7 +2,7 @@
 
 
 
-developpeur fullstack
+developer fullstack
 ---------------------
 
 * 🌍  I'm based in brest, finistere, france
